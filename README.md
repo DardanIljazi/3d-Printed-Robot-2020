@@ -14,5 +14,17 @@ The goal is to make a little bluetooth commanded robot over a Ionic mobile appli
 
 
 
-# WORK IN PROGRESS (robot beeing constructed, almost finished)
+## Result
+
+### Robot
+
+![3D printed Robot result](Result_1024x768.png)
+
+### Mobile application
+
+![Mobile application](Application.gif)
+
+
+
+## **Documentation in Progress**
 
