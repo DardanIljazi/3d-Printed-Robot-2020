@@ -10,11 +10,11 @@ The goal is to make a little bluetooth commanded robot over a Ionic mobile appli
 
 ![3D printed robot, 3d rendering with titles for some parts](Robot_2020_1_explain.png)
 
-### The approximative price of this robot is less than 35$ (shipping cost included)
 
 
+## Price of this robot is less than 35$ (shipping cost included)
 
-The pieces have been chosen with 2 main parameters:
+Pieces have been chosen with 2 main parameters:
 
 - **Best vendor** rating (only vendors equal or above 98% of positive feedback have been used)
 - **Lowest price** found, including shipping cost
