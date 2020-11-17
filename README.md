@@ -86,7 +86,18 @@ Default recommended printing settings are these:
 
 
 
-## After printing, before final assembly
+## After printing, before final assembly: Tapping
+
+All holes for these pieces have to be tapped with M3 size. If you don't have a tapping tool, you can get one [here](https://s.click.aliexpress.com/e/_ANrDs1).
+
+<img src="Tapping_Tool.png" alt="Tapping" max-width="100%" />
+
+| Illustration                                                 | Piece to tap                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <br /><img src="01_Tapping_Main_Bottom_And_Pillar.png" alt="01_Tapping_Main_Bottom_And_Pillar" max-width="100%" /> | <br />Thread the two parts together, in order to have a screw that does not jam.<br />[**01_Main_Bottom_Part.stl**](Parts/01_Main_Bottom_Part.stl) <br />with<br />[**02_Pillar_For_Motor.stl**](Parts/02_Pillar_For_Motor.stl) |
+| <br /><img src="02_Tapping_Top_And_Pillar.png" alt="02_Tapping_Top_And_Pillar" max-width="100%" /> | <br />Thread the two parts together, in order to have a screw that does not jam.<br />[**03_Top_Part.stl**](Parts/03_Top_Part.stl) <br />with<br />[**02_Pillar_For_Motor.stl**](Parts/02_Pillar_For_Motor.stl) |
+| <br /><img src="03_Tapping_Pillar.png" alt="03_Tapping_Pillar" max-width="100%" /> | <br />[**02_Pillar_For_Motor.stl**](Parts/02_Pillar_For_Motor.stl) |
+| <br /><img src="04_Tapping_L298N_Bottom.png" alt="04_Tapping_L298N_Bottom" max-width="100%" /> | <br />[**06_L298N_bottom.stl**](Parts/06_L298N_bottom.stl)   |
 
 
 
